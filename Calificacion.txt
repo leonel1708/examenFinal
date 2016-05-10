@@ -1,0 +1,16 @@
+Detalle Calificacion   14.5/27
+Requisitos Funcionales (15 Puntos): (5 por pagina) 10 = (5, 4, 1) . Buen codigo, mala presentacion visual. Como este rubro se trata acerca de calificar funcionalidad tiene 4 de 5 en la pagina de peliculas y locales. En la pagina de formulario tiene 1 porque su formulario no cumple lo solicitado.
+Errores Manejados o no tiene en consola (2 Puntos): 1.5 Puntos. Tiene errores en la consola pero no afectan el funcionamiento de su sitio xq los errores estan en funciones que no son utilizadas.
+Buen Uso de Funciones, Ciclos y DRY (2 Puntos): 2.5 Puntos. Tiene buen codigo, buenas funciones y reutiliza funciones.
+Buen Uso de Jquery y Galeria (2.5 Puntos): 0 Puntos. La galeria no funciona y no le puedo calificar el uso de Jquery 
+Uso de los media Queries (2.5 Puntos): 2.5 Puntos. Excelente uso de los media queries
+Comentarios (1 Punto): 1 Punto. Tiene comentarios.
+Pagina con buena estetica (1 Punto): 1 Punto. Su pagina tiene buen contraste. Puede mejorar la estetica.
+Subio bien a github (1 Punto bonus): 1 Punto.
+Total: 19.5 - 5 Por no poner nombre en el examen
+
+Comentarios Profesor
+En general ha cumplido con todo lo pedido en el JS y contenido mejor que todas las otras pruebas.
+La parte visual falta mejorar un poco, podia poner imagenes en los locales y le daba 5 alli.
+Una pena que no puso la parte del formulario, este pudo ser un examen de 100% de los puntos.
+Lo felicito por su esfuerzo, siga programando.
